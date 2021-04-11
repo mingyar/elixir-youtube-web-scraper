@@ -1,6 +1,6 @@
 # ElxrYtWbScrpr
 
-**TODO: Add description**
+A tiny proof of concept to verify how to get the last video on a YT channel using elixir
 
 ## Installation
 
